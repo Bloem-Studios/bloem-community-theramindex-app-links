@@ -8,8 +8,8 @@ import (
 	"sort"
 	"strings"
 
-	pluginv1 "github.com/Silo-Server/silo-plugin-sdk/pkg/pluginproto/silo/plugin/v1"
-	"github.com/theramindex/silo-plugin-app-links/internal/store"
+	pluginv1 "github.com/Bloem-Studios/bloem-plugin-sdk/pkg/pluginproto/silo/plugin/v1"
+	"github.com/Bloem-Studios/bloem-community-theramindex-app-links/internal/store"
 )
 
 type Store interface {

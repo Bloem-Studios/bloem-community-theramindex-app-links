@@ -9,11 +9,11 @@ import (
 	"os"
 	goruntime "runtime"
 
-	pluginv1 "github.com/Silo-Server/silo-plugin-sdk/pkg/pluginproto/silo/plugin/v1"
-	publicmanifest "github.com/Silo-Server/silo-plugin-sdk/pkg/pluginsdk/manifest"
-	sdkruntime "github.com/Silo-Server/silo-plugin-sdk/pkg/pluginsdk/runtime"
-	pluginimpl "github.com/theramindex/silo-plugin-app-links/internal/plugin"
-	"github.com/theramindex/silo-plugin-app-links/internal/store"
+	pluginv1 "github.com/Bloem-Studios/bloem-plugin-sdk/pkg/pluginproto/silo/plugin/v1"
+	publicmanifest "github.com/Bloem-Studios/bloem-plugin-sdk/pkg/pluginsdk/manifest"
+	sdkruntime "github.com/Bloem-Studios/bloem-plugin-sdk/pkg/pluginsdk/runtime"
+	pluginimpl "github.com/Bloem-Studios/bloem-community-theramindex-app-links/internal/plugin"
+	"github.com/Bloem-Studios/bloem-community-theramindex-app-links/internal/store"
 )
 
 //go:embed manifest.json

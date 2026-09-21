@@ -83,5 +83,15 @@
   "metadata": {
     "display_name": "App Links",
     "summary": "Adds a Silo Apps launcher with optional fullscreen iframe shells for external services."
+  },
+  "presentation": {
+    "display_name": "App Links Routes",
+    "publisher_name": "theramindex",
+    "publisher_url": "https://github.com/theramindex",
+    "homepage_url": "https://github.com/theramindex/silo-plugin-app-links",
+    "source_url": "https://github.com/Bloem-Studios/bloem-community-theramindex-app-links",
+    "support_url": "https://github.com/Bloem-Studios/bloem-community-theramindex-app-links/issues",
+    "changelog_url": "https://github.com/Bloem-Studios/bloem-community-theramindex-app-links/releases",
+    "description_markdown": "\n\nCommunity plugin by theramindex (https://github.com/theramindex/silo-plugin-app-links), built for Bloem on the Bloem plugin SDK."
   }
 }

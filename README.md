@@ -1,3 +1,12 @@
+## Bloem community build
+
+This is Bloem's community build of [theramindex/silo-plugin-app-links](https://github.com/theramindex/silo-plugin-app-links) by **theramindex**
+(contributors: theramindex). It is ported to the Bloem plugin SDK and listed in the
+Bloem community plugin catalog. All credit for the plugin goes to its author; please
+report plugin behavior issues upstream. See [NOTICE](NOTICE) for provenance.
+
+---
+
 # Silo App Links
 
 Silo plugin that adds an Apps launcher for external services. Admins manage links in a custom admin panel. Users open links in a Silo-hosted fullscreen iframe shell or in a new tab.

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/theramindex/silo-plugin-app-links/internal/store"
+	"github.com/Bloem-Studios/bloem-community-theramindex-app-links/internal/store"
 )
 
 func sharedCSS() string {
